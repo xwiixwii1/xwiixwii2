@@ -1,0 +1,138 @@
+.cursor{
+    pointer-events: none;
+    position: fixed;
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    border-radius: 50%;
+    margin-top: -25px;
+    margin-left: -25px;
+    
+ 
+ 
+ }
+ 
+
+
+
+.navbar-brand{color: aliceblue;
+
+}
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {color: aliceblue;
+    
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.bgnav{
+    background-color: rgb(0, 215, 243);
+    color: aliceblue;
+}
+
+.nav-link{
+
+    color: aliceblue;
+}
+
+.nav-link:hover{
+    color: rgb(0, 8, 5);
+}
+
+.dropdown-item{
+    color: rgb(0, 215, 243);
+
+}
+.typeone{
+    background-color: rgb(0, 215, 243);
+    font-size: 30px;
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 5px;
+
+}
+
+.typeone1{
+    background-color: rgb(0, 215, 243);
+    font-size: 30px;
+    padding: 10px;
+    color: aliceblue;
+    border-radius: 5px;
+    
+
+}
+.item{
+    background: url(me/1.jpg)  fixed left ;
+       
+       left:0;
+       width: 60%;
+       height: 100vh;
+       background-size: cover;
+       
+
+}
+
+.text{
+   
+    margin-top: 0px;
+       color: rgb(197, 197, 197);
+       letter-spacing:10px;
+       white-space: nowrap;
+       
+
+
+}
+
+@media screen and (min-width:768px){
+    .textbox{
+        margin-top: 100px;
+        margin-left: 20px;}
+
+     
+}
+
+.text-1{
+    
+    
+    color: rgb(205, 205, 205);
+    letter-spacing:3px;
+     line-height: 10px;
+     margin-top: 100px;
+     margin-left: 10px;
+    
+
+
+}
+
+@media screen and (min-width:768px){
+    .textbox1{
+        margin-top: 150px;
+    
+    left: 50px;}
+
+     
+}
+
+.text-2{
+    line-height: 10px;
+    margin-top: 130px;
+   
+    margin-left: 120px;
+    color: rgb(197, 197, 197);
+    letter-spacing:3px;
+    white-space: nowrap;
+    
+
+
+}
+
+@media screen and (min-width:768px){
+    .textbox2{
+        margin-top: 350px;
+    
+    margin-left: 700px;}
+
+     
+}
